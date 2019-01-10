@@ -1,0 +1,15 @@
+<?php
+print'
+<h1>About</h1>
+		<h2>Brief history of WWW</h2>
+		<hr>
+		<video width="50%" controls poster="img/wwwimg.jpg" >
+		  <source src="video/Birthofwww.mp4" type="video/mp4">
+		  Your browser does not support HTML5 video.
+		</video>
+		<p>Distinct from the Internet, the World Wide Web refers to hypermedia using Hypertext Markup Language or HTML. This unique language allows information to be linked so when a person selects or clicks on one part of a link their browser automatically finds the designated information. Thus, the Webs unique characteristic is that it empowers the user to "click" on a word and be transported to a related web location. The development of this innovation is attributed to Tim Berners-Lee, a researcher at the CERN Institute of Geneva, Switzerland who is credited for the creation of the first links on the World Wide Web. In 1992 the University of Illinois introduced the first web browser, an online search tool that "surfs" all of the information on the Web, locates matches, and then ranks results.</p>
+		<p>The web became more than just an interesting experiment in 1993 with the development of a graphical browser. Up until this point, even the World Wide Web was terminal-based, meaning that the user depended on the use of a keyboard. Marc Andreesen, who was working with a team at the National Center for Supercomputing Applications (NCSA) created the first graphical browser, one that was not terminal based, called Mosaic.</p>
+		<p>Andreesen and a few team members left NCSA in 1994 to commercialize the graphical browser and form the company Netscape Communications. Netscapes formation marks the onset of the commercialization of the World Wide Web. In 1995, the National Science Foundation gave up the exclusive control of the Internet backbone of routers and high-speed lines, allowing the development of commercial. Soon after, Microsoft also tried to capture a large portion of the Internet browsers market with Internet Explorer.</p>
+		<p>By 1995, an estimated 50 million users were connected to the Internet worldwide. With the telecommunications act of 1996, the E-rate program came into existence with the goal of connecting millions of schools. Net-coalition was founded in 1999 to set standards for e-commerce, which was already blossoming. The business and media worlds were rocked in 2000 when Time- Warner and AOL announced their merger, making the marriage of the media industry and cyber space a reality.</p>
+		<p>In 1994, during a strong period of innovation, the first cyber-age robbery occurred in Russia. The theft of millions of dollars from Citibank showed the world the ramifications of the misuse of this new technology. It did not take long for the world to realize that crimes could be perpetrated on the such as money- making scams and computer hacking.</p>';
+?>
