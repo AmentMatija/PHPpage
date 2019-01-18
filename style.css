@@ -131,6 +131,11 @@ hr {
 	border: 2px solid black;
 	border-radius:5px;
 }
+#gallery figure:hover{
+	background-color:rgba(209, 201, 255, 0.7);
+	border: 2px solid grey;
+	border-radius:5px;
+}
 #gallery figcaption {
 	font-size: 90%;
 	height: 30px;
